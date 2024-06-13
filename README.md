@@ -6,7 +6,7 @@ Night-Life-ASP.NET is a DEMO web application designed to help users find events 
 
 ## Features
 - Event Listings: Browse events by category, date, or location.
-- Favorites: Save events to your favorites for easy access later.
+- Async approach: The API is designed to process Async requests.
 - Search: Find specific events quickly with a powerful search feature.
 - Admin Panel: Manage events, users, and site settings.
 
